@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kojo-Jr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<h1 align="center">Omari <!--Eben -->| Software Developer 👨‍💻</h1>
+<h1 align="center">Omari <!--Eben -->| Software Developer 👨‍💻 | Data Science </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+App+Developer;Full-Stack+Enthusiast;Data+Science+Explorer&center=true&width=380&height=45">
