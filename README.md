@@ -16,9 +16,9 @@
 
 ---
 
-### 🚀 About Me
+<!-- ### 🚀 About Me
 
-<!--I'm a passionate software developer focusing on mobile app development. My journey in tech is driven by a love for creating intuitive, user-friendly applications and a constant desire to learn and grow. I'm expanding my skills in full-stack development and exploring the exciting world of data science. -->
+I'm a passionate software developer focusing on mobile app development. My journey in tech is driven by a love for creating intuitive, user-friendly applications and a constant desire to learn and grow. I'm expanding my skills in full-stack development and exploring the exciting world of data science. -->
 
 ### 💻 Tech Stack
 
