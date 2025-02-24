@@ -1,13 +1,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kojo-Jr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
-
-<h1 align="center">Omari <!--Eben -->| Software Developer 👨‍💻 | Data Science </h1>
-
+<!---
+<h1 align="center">Omari Eben | Software Developer 👨‍💻 | Data Science </h1>
+-->
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+App+Developer;Full-Stack+Enthusiast;Data+Science+Explorer&center=true&width=380&height=45">
 </p>
-
+<!--
 <p align="center">
   <a href="mailto:omarieben7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/eben-omari-072923167/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -34,19 +35,19 @@ I'm a passionate software developer focusing on mobile app development. My journ
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
+<!--
 ### 📊 GitHub Stats
-
+<
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kojo-Jr&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
+<
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kojo-Jr&theme=radical" alt="GitHub Streak" />
 </p>
-
+<
 ### 🌟 Featured Projects
-
+<
 <p align="center">
   <a href="https://github.com/Kojo-Jr/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kojo-Jr&repo=MovieTime&theme=radical" alt="MovieTime" />
@@ -55,14 +56,13 @@ I'm a passionate software developer focusing on mobile app development. My journ
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kojo-Jr&repo=Data-Analysis-and-Model-Prediction-on-Patient-Data&theme=radical" alt="Project 2" />
   </a>
 </p>
-
+<
 ### 🌱 Current Focus
-
+<
 - 📱 Developing cross-platform mobile applications
 - 🌐 Learning full-stack web development
 - 📊 Exploring data analysis and machine learning
-
+<
 ### 💬 Get in Touch
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss tech, share ideas, or just chat!
-
+<
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss tech, share ideas, or just chat! -->
