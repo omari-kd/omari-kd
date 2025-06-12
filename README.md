@@ -22,7 +22,6 @@
 I'm a passionate software developer focusing on mobile app development. My journey in tech is driven by a love for creating intuitive, user-friendly applications and a constant desire to learn and grow. I'm expanding my skills in full-stack development and exploring the exciting world of data science. -->
 
 ### 💻 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
@@ -34,7 +33,9 @@ I'm a passionate software developer focusing on mobile app development. My journ
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
 </p>
+
 <!--
 ### 📊 GitHub Stats
 <
