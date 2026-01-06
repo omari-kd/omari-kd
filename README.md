@@ -20,6 +20,7 @@
 <!-- ### 🚀 About Me
 
 I'm a passionate software developer focusing on mobile app development. My journey in tech is driven by a love for creating intuitive, user-friendly applications and a constant desire to learn and grow. I'm expanding my skills in full-stack development and exploring the exciting world of data science. -->
+
 ### 💻 Tech Stack
 <p align="center">
   <!-- Front-end -->
@@ -46,6 +47,7 @@ I'm a passionate software developer focusing on mobile app development. My journ
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Pipeline_Automation-0A9396?style=for-the-badge" alt="Pipeline Automation"/>
   <img src="https://img.shields.io/badge/ETL_Development-FF6F61?style=for-the-badge" alt="ETL Development"/>
