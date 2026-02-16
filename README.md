@@ -32,6 +32,7 @@ I'm a passionate software developer focusing on mobile app development. My journ
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <br>
+  <br>
   <!-- Back-end -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -41,6 +42,7 @@ I'm a passionate software developer focusing on mobile app development. My journ
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <br>
   <br>
   <!-- Data, ETL & Observability -->
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
@@ -53,8 +55,10 @@ I'm a passionate software developer focusing on mobile app development. My journ
   <img src="https://img.shields.io/badge/Pipeline_Automation-0A9396?style=for-the-badge" alt="Pipeline Automation"/>
   <img src="https://img.shields.io/badge/ETL_Development-FF6F61?style=for-the-badge" alt="ETL Development"/>
   <br>
+  <br>
   <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Alembic-003545?style=for-the-badge&logo=database&logoColor=white" alt="Alembic"/>
 </p>
 
 
